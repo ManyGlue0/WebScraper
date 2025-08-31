@@ -505,7 +505,7 @@ class WebScraper:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Enhanced Web Scraper with Robots.txt Compliance',
+        description='Python Web Scraper',
         formatter_class=argparse.RawDescriptionHelpFormatter
     )
     
