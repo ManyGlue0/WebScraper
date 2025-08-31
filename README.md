@@ -1,4 +1,4 @@
-# Enhanced Web Crawler
+# Web Crawler
 
 A Python-based web crawler with robots.txt compliance, rate limiting, and flexible output options. Perfect for ethical web scraping and site analysis.
 
